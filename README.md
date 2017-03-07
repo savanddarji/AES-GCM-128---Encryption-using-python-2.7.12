@@ -6,4 +6,4 @@ It is open source project, develope for challeging my own logical and programmin
 
 The code follows the same convention of input and output with the same name given in guideline of NIST. So please refer test vectors, the last part of the guideline for checking the code. The code will work for AES 128 bit test vectors, test case 1 through 6.
 
-Anyone can access the Decryption operation by following: https://github.com/savanddarji/AES-GCM-128---Decryption-using-python-2.7.12
+Anyone can access the code of decryption algorithm through: https://github.com/savanddarji/AES-GCM-128---Decryption-using-python-2.7.12
